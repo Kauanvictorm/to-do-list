@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(9, 83, 126, 0.253);
+    font: 20px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 100px;
+}
+li img {
+    width: 25px;
+    height: 25px;
+    margin: 0px;
+}
